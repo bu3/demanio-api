@@ -1,5 +1,8 @@
 package com.sigeosrl.demanio
 
+import com.sigeosrl.demanio.regioni.Regione
+import com.sigeosrl.demanio.regioni.RegioneRepository
+import com.sigeosrl.demanio.regioni.RegioneService
 import spock.lang.Specification
 
 

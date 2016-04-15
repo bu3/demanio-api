@@ -1,14 +1,11 @@
 package com.sigeosrl.integration
 
 import com.sigeosrl.Application
-import com.sigeosrl.demanio.Regione
+import com.sigeosrl.demanio.regioni.Regione
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.boot.test.IntegrationTest
-import org.springframework.boot.test.SpringApplicationConfiguration
 import org.springframework.boot.test.SpringApplicationContextLoader
 import org.springframework.boot.test.TestRestTemplate
-import org.springframework.boot.test.WebIntegrationTest
-import org.springframework.http.HttpStatus
 import org.springframework.test.context.ContextConfiguration
 import org.springframework.test.context.web.WebAppConfiguration
 import org.springframework.web.client.RestTemplate

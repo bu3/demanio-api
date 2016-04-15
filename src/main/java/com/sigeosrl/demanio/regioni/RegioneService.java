@@ -1,4 +1,4 @@
-package com.sigeosrl.demanio;
+package com.sigeosrl.demanio.regioni;
 
 import com.google.common.collect.Lists;
 import org.springframework.beans.factory.annotation.Autowired;

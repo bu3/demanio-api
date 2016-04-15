@@ -1,4 +1,4 @@
-package com.sigeosrl.demanio;
+package com.sigeosrl.demanio.regioni;
 
 import org.springframework.data.repository.CrudRepository;
 
